@@ -1,5 +1,7 @@
 # Web-ext
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/snoorooth/web-ext.svg)](https://greenkeeper.io/)
+
 This is a command line tool to help build, run, and test
 [WebExtensions](https://wiki.mozilla.org/WebExtensions).
 
